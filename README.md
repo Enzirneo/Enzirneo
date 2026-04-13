@@ -62,47 +62,38 @@ Atualmente, venho trabalhando em projetos com foco em:
 
 ---
 
-## 📊 GitHub Stats
+## 🌟 Projetos em destaque
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Enzirneo/portifolio-02">
+    <img src="https://img.shields.io/badge/Portfólio%20Pessoal-7C3AED?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+  <a href="https://github.com/Enzirneo/Neurosync">
+    <img src="https://img.shields.io/badge/NeuroSync-2563EB?style=for-the-badge&logo=javascript&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Enzirneo/portifolio-02">🔗 Ver Portfólio</a> •
+  <a href="https://github.com/Enzirneo/Neurosync">🔗 Ver NeuroSync</a>
 </p>
 
 ---
 
-## 🌟 Projetos em destaque
+## 📊 Atividade
 
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO/REPOSITORIO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=REPOSITORIO_1&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/SEU_USUARIO/REPOSITORIO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=REPOSITORIO_2&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/SEU_USUARIO/REPOSITORIO_3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=REPOSITORIO_3&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/SEU_USUARIO/REPOSITORIO_4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=REPOSITORIO_4&theme=tokyonight&hide_border=true" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=Enzirneo&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 📌 Atualmente
 
-- Desenvolvendo aplicações web com foco em performance, organização e escalabilidade
-- Estudando e aprofundando conhecimentos em arquitetura de software
-- Criando interfaces modernas com atenção especial à experiência do usuário
-- Evoluindo em tecnologias front-end, back-end e estruturação de produtos digitais
+- Desenvolvendo aplicações web com foco em performance, organização e escalabilidade  
+- Estudando arquitetura de software e sistemas escaláveis  
+- Criando interfaces modernas com foco em UX/UI  
+- Evoluindo como full stack developer  
 
 ---
 
@@ -110,6 +101,6 @@ Atualmente, venho trabalhando em projetos com foco em:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/enzo-bispo-68738a24b/">LinkedIn</a> •
-  <a href="[https://SEU-PORTFOLIO.com](https://portifolio-enzo-bispo.vercel.app/)">Portfólio</a> •
+  <a href="https://portifolio-enzo-bispo.vercel.app/">Portfólio</a> •
   <a href="mailto:enzo.bispo22@gmail.com">Email</a>
 </p>

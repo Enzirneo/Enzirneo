@@ -109,7 +109,7 @@ Atualmente, venho trabalhando em projetos com foco em:
 ## 📫 Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/">LinkedIn</a> •
-  <a href="https://SEU-PORTFOLIO.com">Portfólio</a> •
-  <a href="mailto:SEUEMAIL@email.com">Email</a>
+  <a href="https://www.linkedin.com/in/enzo-bispo-68738a24b/">LinkedIn</a> •
+  <a href="[https://SEU-PORTFOLIO.com](https://portifolio-enzo-bispo.vercel.app/)">Portfólio</a> •
+  <a href="mailto:enzo.bispo22@gmail.com">Email</a>
 </p>
